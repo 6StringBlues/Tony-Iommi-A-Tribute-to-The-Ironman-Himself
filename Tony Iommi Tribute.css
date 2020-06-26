@@ -1,0 +1,31 @@
+#main {
+    background-color: black;
+  }
+  
+  #title {
+    background-color: purple;
+    height: 70px;
+  }
+  
+  .list {
+    color: purple;
+  }
+  
+  #tribute-info {
+    background-color: purple;
+  }
+  
+  .h2 {
+    background-color: purple;
+  }
+  
+  .h3 {
+    background-color: purple;
+  }
+  
+  #image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+  }
